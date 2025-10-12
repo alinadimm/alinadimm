@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Ali!
-
-🌍 **Pursuing an M.Sc. in Earthquake Engineering**  
+🌍 **M.Sc. Graduate in Earthquake Engineering**  
 🏗️ **Junior Structural Designer**  
 
 ---
